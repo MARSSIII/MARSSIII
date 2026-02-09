@@ -38,3 +38,13 @@
 |---------|-------------|
 | [MASLO/bot](https://maslo.bot/) | AI Generative UI platform developed with the MASLO/digital team |
 | [Lumen-LMS](https://github.com/Lumen-LMS) | Custom LMS for managing and reviewing student assignments at ITMO |
+
+---
+
+### Contact
+
+<p>
+  <a href="mailto:satanicsevensins@mail.ru">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
