@@ -10,7 +10,7 @@
 ### About me
 
 - 🏙️ Developer based in Saint Petersburg
-- 🤖 Part of the [Maslo-Digital](https://maslo.bot/) team, building **Maslo-bot**
+- 🤖 Part of the [MASLO/digital](https://maslo.bot/) team, building **MASLO/bot**
 - 🎓 Programming mentor at **ITMO University** — reviewing student projects and building my own [LMS](https://github.com/Lumen-LMS)
 
 ---
@@ -34,5 +34,5 @@
 
 | Project | Description |
 |---------|-------------|
-| [Maslo-bot](https://maslo.bot/) | Bot platform developed with the Maslo-Digital team |
+| [MASLO/bot](https://maslo.bot/) | Bot platform developed with the Maslo-Digital team |
 | [Lumen-LMS](https://github.com/Lumen-LMS) | Custom LMS for managing and reviewing student assignments at ITMO |
